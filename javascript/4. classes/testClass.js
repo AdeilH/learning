@@ -1,6 +1,8 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
 
 class Struggle{
+    #level;
+    #intensity;
     constructor(level, intensity){
         this.level = level;
         this.intensity = intensity;

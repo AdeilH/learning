@@ -1,3 +1,3 @@
 # learning
 
-Just going through the basics to improve upon for research in reverse engineering
+Just going through the basics for application security course gathering everything in one repo

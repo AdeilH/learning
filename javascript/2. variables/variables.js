@@ -4,7 +4,10 @@ let testBoolean = false;
 let testDouble = 30.05;
 // This is undefined
 let undefined;
-
+console.log(typeof(word));
+console.log(typeof(testNumber));
+console.log(typeof(testBoolean));
+console.log(typeof(testDouble));
 // This is null
 let nullObject = null;
 

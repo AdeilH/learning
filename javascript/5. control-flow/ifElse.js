@@ -13,3 +13,6 @@ if(b > 4){
 } else {
     console.log(b);
 }
+
+let ternary = (10 < 5) ? 10: 5;
+console.log(ternary);

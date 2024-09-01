@@ -3,3 +3,6 @@
 .metals 
 .scala-build
 .bsp
+kotlinc
+kotlin-compiler*
+*.jar

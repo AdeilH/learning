@@ -28,3 +28,11 @@ Valgrind Basics.
 | --show-leak-kinds=all  | which leak kinds to show?[definite,possible] | a comma separated list of one or more definite, indirect, direct, possible , all for all leak kinds, none for none |
 | --num-callers=20  | show <number> callers in stack traces [12] | |
 | --track-fds=yes  | track open file descriptors? [no] all includes reporting stdin, stdout and stderr | no, yes, all |
+
+6. Error Types (memcheck)
+ 
+- illegal read / illegal write errors
+- Use of uninitialized Values 
+- Illegal Frees
+- Checks parameters to system calls if all of the buffer is valid
+- Checks source buffer and destinition buffer while copying if they overlap.

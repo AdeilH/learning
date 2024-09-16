@@ -31,8 +31,8 @@ scan-build: Run 'scan-view /tmp/scan-build-2024-09-09-155511-1803566-1' to exami
 
 `~/llvm-project/build/bin/scan-view  /tmp/scan-build-2024-09-09-155511-1803566-1`
 
-![scan-view output](.\scanbuild.png "Scan View Output")
+![scan-view output](scanbuild.png "Scan View Output")
 
-![scan-view output](.\scanviewweb.PNG "Scan View Output")
+![scan-view output](scanviewweb.PNG "Scan View Output")
 ### TODO
 1. Add memory leaks examples go through reports

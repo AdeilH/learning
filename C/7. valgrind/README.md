@@ -16,7 +16,7 @@ Valgrind Basics.
 
 4. Sample output
 
-![valgrind output](.\Valgrind.png "Valgrind Output")
+![valgrind output](Valgrind.png "Valgrind Output")
 
 
 5. Command Details 
